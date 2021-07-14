@@ -1,0 +1,88 @@
+
+
+
+
+
+ 	li { 
+
+color: forestgreen;
+
+ 	 }
+ 	 span {
+ 	 	color: indianred;
+ 	 }
+
+ 	 section span { 
+ 	 color: red; }
+
+
+/*class - ramdenimes sadac chasvam */
+.blue-text  
+{
+color: skyblue;
+font-weight: bold;
+font-style: italic;
+font-size: 25px;
+}
+
+.forestgreen {
+	color: forestgreen;
+}
+
+
+/*id - Mxolod erts*/
+#logo {
+
+width: 150px;
+/*height: 150px;*/
+}
+
+/*Universal Selector - Gets them all*/
+* {
+font-style: italic;
+}
+
+.frogs {
+	width: 250px;
+}
+
+#test {
+	font-weight: bold;
+	color: firebrick;}
+
+	header {
+		width: 1663px;
+	}
+
+	nav {
+		/*margin: 50px;*/
+		width: 50%;
+		margin: auto;
+		padding: 30px;
+		/*sisqe, stily, feri*/
+		border: 3px solid forestgreen;
+		border-radius: 15px;
+			}
+
+			.menu {
+				display: inline;
+				margin-right: 30px;
+
+			}
+			nav a {
+				color: inherit;
+				text-decoration: none;
+			}
+			nav a:hover {
+				color: lightgreen;
+
+			}
+			h1:hover {
+				cursor: pointer;
+				color: lightgreen;
+				font-size: 50px ;
+
+			}
+			/*h1 {
+				color: green !important; 
+			}*/
